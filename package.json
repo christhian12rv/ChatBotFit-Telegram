@@ -9,6 +9,7 @@
   "author": "Christhian Rezende Vieira",
   "license": "ISC",
   "dependencies": {
+    "dialogflow": "^1.2.0",
     "node-telegram-bot-api": "^0.54.0"
   }
 }

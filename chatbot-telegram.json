@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-telegram-rgwg",
+  "private_key_id": "e6e829c9bf9bf8cc604b331b2fda4032895a9c43",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDB4TJ3FadzfTUh\n8V6UlpyozO4OXZiA/7D/wT0M/xG/BdLJ60MovpqwsMmF/04VpEmywn0PJXVAzEPw\ndPzDI4fRcpCarTrYUT+ueJkPdRdKUXTy8h1k0lJ+oghG0odvmUqYCjUkv5iZRkQV\nyjoQ5+YK9b6QNsSkDULHJeHgEVSdZ6oiuR1DQA/YKWky18U9s832K/ZLThJfmji0\nJJbP72Z4rf1e37IJZIP+KwPFdWfugENRct9x1bgTvGmi0xjTj3SRQPtKG1Ma1b4o\nmx0h6PSJQV3yo+xjqL8+PH9946DW3wGABmwSxDroPDbfNq7VnNREPZtk4+zqy/JW\nBK5gtTOzAgMBAAECggEAFsCh1n3RD+mSsbAMxG1EZz7ddQwg2IqpL+pyirLoVz2M\ntiuIzyBHMRMeIz6J4FpOV88hNATWVMtj8bUY8KGbz8WdGLnZnQcz7Pq0I68/E3ap\nvdUSBAH2smu7guwz/rHDokIYaH6fnuUzGkeINvGv+ntKaMw0mXgA7TQR5OTDxFDw\nqbDeHm3Mlke9E9gKt/bqOEH9Dt6Sxfc3FsGOMKkr7RV5Q0d0jPPOFAAzAK6lH/g+\nw9omjux6aiYQYb1lwi8QmbsLdUvg+oJjtf7WvBO/SjHoo4lCSDaRi8ieu6zzOMqX\ny22BcDuVTTJPIXMYOL0yeViAWhz9OkpFLWPZlGLHeQKBgQDumfE6TfumcXpZmwvN\nzhtCDRG3PWDgC5WxdJh4c97WJbqzF7I0v8IVmRVd29/mMxfd9N3WgDNPs4pIDncV\n1vTTrdRyJbd4y9hXndURPr0giFEG19N/xr1goepA//g21hhpPyyXf70orISDqU9q\nyw5/5oIPWKoaPRYhzShtB2pA/wKBgQDQBGtb13qzOd7Y4p5yQoGKPZMYlLZjEuDH\nF1Ea24DiIbUiYHNtoTsC/Q7CAm1FVNelO8xxICIdEA+yNlW0Py5kBAW+Sbmv9M6G\n6o0rlAB6Xgg+sQkmKjBP64CYBTyAWKfz0kyakO4OUBnyy1CxQcvVmKYnibOSD9Hb\n3PBk49lZTQKBgQCUWC28nEN7Zk41a8pY+G3GES4UiRqz8T/uhplNOm0vI2ICexcW\n6KoYl4bLRirciqOqIdXSyP4d7Xhp+GRdtbmd6hONrJl3hvVI9B5GjIU1tsr5wDIE\n3WFctQ5Zv0tpfI7M0LQ+tPK8WRZCbX+s2/Z12rC+LdgEXDpoZY9eyh9rrQKBgDJF\nPyS82FxD2gUUDzKRu/iKlOfV2JXs1AGJMwKIlYcQmlOqd3rBAh/gxBZCu+GLdWnr\nH6cfGt9nKEPrOZ8LvcxR5IluC7/oK5kTSfaEF/F6lAeChTGB9Jb71OHoMgzaYAxe\ngEDCUaWH2h2A4QlVW0tNTqozbwAXbqHxrO7U2YvpAoGBAMOywid4P0lrLKfISpi+\nFwdlkxh7btj3VZLnO/DQMO5u2x79nJTIpWbB2MbFUuCuu83+L+0/SZzPCRr0FMMh\n8x9ARaGomhMSmIpOhsckTmtBSO0PojKPfWuupo/eYJvoKwqjHGGW5ItgF/ACfOto\nE9H4gcl1A2MFSvZ71S35Gupj\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integrations@chatbot-telegram-rgwg.iam.gserviceaccount.com",
+  "client_id": "111147723379622391117",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integrations%40chatbot-telegram-rgwg.iam.gserviceaccount.com"
+}
