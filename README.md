@@ -94,7 +94,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
       $ npm install -g yarn
 
----
+
+
 
 ### Installation
 
@@ -112,6 +113,17 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
    const token = 'ENTER YOUR TOKEN';
    ```
 
+
+
+
+### Running the project
+
+    $ npm start
+
+### Simple build for production
+
+    $ npm build
+    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
