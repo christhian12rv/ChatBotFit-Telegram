@@ -29,8 +29,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 The purpose of this project is to create a chatbot of physical exercises for the telegram. It is possible to request a specific workout of some muscle to the bot and it filters and returns some videos according to the muscle of that specific user.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
