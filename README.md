@@ -51,9 +51,6 @@ The purpose of this project is to create a chatbot of physical exercises for the
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 #### Node
